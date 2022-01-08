@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @gangasrotogati
-- 👀 I’m interested in building websites and working on videogames
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on small game dev projects
-- 📫 How to reach me email me glass_joseph@hotmail.com
+You have reached the official repository of Joseph Glass. If you'd like to learn more about me and my work, you can visit my website:
+https://joeglass.azurewebsites.net/default.html
+
+Or email me at glass_joseph@hotmail.com
 
 <!---
 gangasrotogati/gangasrotogati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
